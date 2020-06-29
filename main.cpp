@@ -2,7 +2,9 @@
 
 //#include "LeetCode1470\LeetCode1470.cpp"
 //#include "LeetCode1480\LeetCode1480.cpp"
-#include "LeetCode1431\LeetCode1431.cpp"
+//#include "LeetCode1431\LeetCode1431.cpp"
+//#include "LeetCode788\LeetCode788.cpp"
+
 using namespace std;
 
 int main()
@@ -23,11 +25,15 @@ int main()
     LeetCode1470_Test3();
     */
 
-   // Leetcode 1431: Kids with the Greatest Number Of Candies
-
+    // Leetcode 1431: Kids with the Greatest Number Of Candies
+    /*
     LeetCode1431_Test1();
     LeetCode1431_Test2();
     LeetCode1431_Test3();
+    */
+
+    // Leetcode 788
+    //LeetCode788_Test1();
     
     return 0;
 }
